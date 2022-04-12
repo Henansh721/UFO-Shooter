@@ -1,0 +1,35 @@
+﻿  Source.cpp
+D:\Projects\UFO Shooter\Project - G\Source.cpp(87,83): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\UFO Shooter\Project - G\Source.cpp(130,72): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\UFO Shooter\Project - G\Source.cpp(138,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\UFO Shooter\Project - G\Source.cpp(161,102): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\UFO Shooter\Project - G\Source.cpp(398,28): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\UFO Shooter\Project - G\Source.cpp(406,28): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Projects\UFO Shooter\Project - G\Source.cpp(437,31): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\UFO Shooter\Project - G\Source.cpp(445,31): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Projects\UFO Shooter\Project - G\Source.cpp(469,24): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\UFO Shooter\Project - G\Source.cpp(477,24): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\UFO Shooter\Project - G\Source.cpp(490,24): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\UFO Shooter\Project - G\Source.cpp(524,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 144 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project - G.vcxproj -> D:\Projects\UFO Shooter\Release\Project - G.exe

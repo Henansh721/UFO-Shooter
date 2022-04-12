@@ -1,0 +1,48 @@
+﻿  Source.cpp
+D:\Projects\UFO Shooter\Project - G\Source.cpp(103,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\UFO Shooter\Project - G\Source.cpp(146,75): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\UFO Shooter\Project - G\Source.cpp(154,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\UFO Shooter\Project - G\Source.cpp(177,104): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\UFO Shooter\Project - G\Source.cpp(324,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects\UFO Shooter\Project - G\Source.cpp(413,73): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\UFO Shooter\Project - G\Source.cpp(437,81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\UFO Shooter\Project - G\Source.cpp(441,72): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\UFO Shooter\Project - G\Source.cpp(445,27): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\UFO Shooter\Project - G\Source.cpp(453,27): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Projects\UFO Shooter\Project - G\Source.cpp(476,72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\UFO Shooter\Project - G\Source.cpp(480,81): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\UFO Shooter\Project - G\Source.cpp(484,30): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\UFO Shooter\Project - G\Source.cpp(492,30): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Projects\UFO Shooter\Project - G\Source.cpp(549,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\UFO Shooter\Project - G\Source.cpp(557,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\UFO Shooter\Project - G\Source.cpp(571,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\UFO Shooter\Project - G\Source.cpp(624,23): warning C4018: '<': signed/unsigned mismatch
+  Project - G.vcxproj -> D:\Projects\UFO Shooter\Debug\Project - G.exe
